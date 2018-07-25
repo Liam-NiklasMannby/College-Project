@@ -1,0 +1,71 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\m32adef.inc</FILE>
+  <FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\m32Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\Debug\Mk2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Mk2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Mk2.map</FILE>
+  <FILE>Mk2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>43</LINE></INIT>
+  <Main><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>51</LINE></Main>
+  <a_h><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>150</LINE></a_h>
+  <i_5><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>184</LINE></i_5>
+  <six_9><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>218</LINE></six_9>
+  <Recieve><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>62</LINE></Recieve>
+  <loop1><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>64</LINE></loop1>
+  <Wait><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>453</LINE></Wait>
+  <loop2><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>77</LINE></loop2>
+  <Incoming><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>83</LINE></Incoming>
+  <led2><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>105</LINE></led2>
+  <read_id><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>114</LINE></read_id>
+  <srr1><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>118</LINE></srr1>
+  <enable><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>127</LINE></enable>
+  <disable><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>131</LINE></disable>
+  <default><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>135</LINE></default>
+  <self_test><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>139</LINE></self_test>
+  <echo_in><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>143</LINE></echo_in>
+  <resend_in><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>147</LINE></resend_in>
+  <Send><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>401</LINE></Send>
+  <loop3><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>106</LINE></loop3>
+  <loop4><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>120</LINE></loop4>
+  <loada><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>241</LINE></loada>
+  <loadb><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>249</LINE></loadb>
+  <loadc><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>257</LINE></loadc>
+  <loadd><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>265</LINE></loadd>
+  <loade><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>273</LINE></loade>
+  <loadf><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>281</LINE></loadf>
+  <loadg><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>289</LINE></loadg>
+  <loadh><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>297</LINE></loadh>
+  <loadi><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>305</LINE></loadi>
+  <loadj><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>313</LINE></loadj>
+  <load0><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>321</LINE></load0>
+  <load1><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>329</LINE></load1>
+  <load2><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>337</LINE></load2>
+  <load3><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>345</LINE></load3>
+  <load4><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>353</LINE></load4>
+  <load5><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>361</LINE></load5>
+  <load6><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>369</LINE></load6>
+  <load7><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>377</LINE></load7>
+  <load8><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>385</LINE></load8>
+  <load9><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>393</LINE></load9>
+  <loop_s><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>411</LINE></loop_s>
+  <loop><FILE>C:\Users\Liam-Niklas Mannby\Documents\Atmel Studio\7.0\Mk2\Mk2\main.asm</FILE><LINE>455</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>
